@@ -107,13 +107,6 @@ O notebook baixa o dataset automaticamente via URL pública ao ser executado —
 não é necessário nenhum arquivo local em `data/` para rodá-lo, mas o
 diretório é mantido na estrutura para armazenar uma cópia local, se desejado.
 
-## Entregáveis do Tech Challenge
-
-- ✅ Notebook com a análise e modelagem (`notebooks/`)
-- ⬜ Apresentação executiva (PPT/PDF) com o storytelling da EDA — a ser
-  adicionada em `results/`
-- ⬜ Vídeo executivo de até 5 minutos — link a ser adicionado neste README
-
 ## Autores
 
 Felipe Paulussi da Silva — Fase 2 | POSTECH
